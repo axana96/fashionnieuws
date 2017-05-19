@@ -16,9 +16,8 @@
     "node",
     "express"
   ],
-  "author": "Kristof Michiels",
-  "license": "ISC"
-  },
+  "author": "Axana Vercamme",
+  "license": "ISC",
   "homepage": "",
   "dependencies": {
     "ejs": "^2.5.6",

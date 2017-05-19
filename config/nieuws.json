@@ -1,0 +1,35 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Pippa Middleton wedding dress designer",
+            "id": 1,
+            "datum": "19 May 2017 • 14:49",
+            "categorieen": ["Fashion","People", "Lifestyle"],
+            "samenvatting": "Tomorrow morning, at around 11.30am – depending on whether she exercises her prerogative to be late – Pippa Middleton will arrive at St Mark’s Church in the idyllic village of Englefield, and the mystery that has occupied the fashion world for months will finally be solved.",
+            "body": "<p>Will Middleton be wearing a classically elegant wedding dress, following in the footsteps of her big sister, the Duchess of Cambridge? Will she play on the bucolic setting and opt for a romantically bohemian style? Or will she use this as a chance to set modern wedding dress trends again, as she inadvertently did when she wore that slinky Alexander McQueen design at the royal wedding in 2011? </br></br> “One constant, though, is that brides tend to choose something more traditional in the end, even if they liked the idea of going down a different route at the start of their search,” she adds. Pippa, with her preference for a relatively “safe” style in her everyday life, could plausibly follow this path.</br></br>Still, there is a long list of British couturiers who could cater to the traditional brief. Besides Lepley herself, Suzannah (designed by Suzannah Crabb) and worn frequently by Pippa, or Jenny Packham (a favourite of the Duchess of Cambridge) would be elegant choices. Middleton is also believed to have visited Theresa May’s favourite, Amanda Wakeley, who has a bridal collection encompassing everything from sleek, bias-cut styles to grand, church‑worthy looks, all combining classic sophistication with a soupçon of modernity.</br></br>British designer Giles Deacon has been seen visiting Pippa and Mum Carole at home. He and his assistant came armed with what looked like bulky dress bags- the kind which might carry a full-skirted wedding gown. Deacon would be an inspired choice by Pippa; he recently refocussed his business on couture pieces and is known for his beautifully gothic creations. His girlfriend is Game of Thrones actress Gwendoline Christie and she often chooses his structural, draped gowns for red carpet premieres around the globe. However, the partnership does seem unlikely.</p>",
+            "afbeeldingl": "pippa.jpg",
+            "afbeeldings": "pippa.jpg"
+        },
+        {
+            "titel": "Cannes 2017: Tilda Swinton and Lily Collins lead the best dressed on day three",
+            "id": 2,
+            "datum": "19/05/2017 • 12:43",
+            "categorieen": ["Fashion","Events"],
+            "samenvatting": "The Cannes filmfestival began yesterday, kicking off a ten-day-long parade of the world's most fashionable movie stars, out to promote the films they have coming up in the next year.",
+            "body": "<p>Several exciting style moments lie ahead, as Nicole Kidman, Kristen Stewart, Uma Thurman and more will give their best takes on Riviera glamour, showcasing evening growns and daywear from European designers including Dior, Gucci and Chanel </br></br> Tilda Swinton wore a pale green skirt suit by Haider Ackermann to kick off day three's events, attending a photocall for her new film Okja.</p>",
+            "afbeeldingl": "cannes.jpg",
+            "afbeeldings": "cannes.jpg"
+        },
+        {
+            "titel": "Rihanna appears at the Cannes Film Festival for the first time to showcase her jewellery range with Chopard",
+            "id": 3,
+            "datum": "19/05/2017 • 11:36",
+            "categorieen": ["Jewellery"],
+            "samenvatting": "Coachella, the Met Gala, the Grammys... Rihanna has been a staple of the international party scene for so long that it comes as a surprise to learn that this year is the first time she's appeared at the Cannes Film Festival, surely the most glamorous affair of all. So to what does La Croisette owe this pleasure? The superstar was hosting a dinner to launch the latest High Jewellery collection by Chopard, the Swiss brand which has been the official partner of the Festival since 1998.",
+            "body": "<p>The Rihanna Loves Chopard collection officially launches in June and consists of a range of everyday stacking jewels, a reincarnation of Chopard's Ice Cube design from 2000, that start at £1,070, alongside one-off, High Jewellery pieces with price tags of five or six figures.</br></br>It was the latter that Rihanna, alongside Chopard's co-president and artistic director Caroline Scheufele, celebrated in Cannes last night. Guests including Julianne Moore, Petra Nemcova and Winnie Harlow attended an exclusive dinner held at the Chopard rooftop, which was decorated with a lavish display of multicoloured flowers, echoing pieces in the collection which pay homage to Rihanna's Barbadian roots.</br></br>The range includes a mismatching pair of earrings with floral designs picked out in tourmalines, tsavorites, rubellites and diamonds - an exuberant ode to the Carnival - which Rihanna first wore at the Grammys in February. While other pieces are similarly vibrant - there's also a Barbados-inspired necklace and an anklet inspired by peacock feathers with over 6,000 gemstones - at last night's launch the singer opted for a more pared-back palette of solely white diamonds.</br></br>It's a strikingly modern approach to the rarefied world of Haute Joillerie, one which signals Chopard's intention to woo a younger consumer. After all, the days of asking one's husband for a diamond parure to wear to a gala dinner are on the way out, and the women who wear High Jewellery today are just as likely to pair their statement cuff with jeans and a t-shirt as with their haute couture.</p>",
+            "afbeeldingl": "rihanna.jpg",
+            "afbeeldings": "rihanna.jpg"
+        }
+    ]
+}

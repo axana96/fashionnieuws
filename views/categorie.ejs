@@ -1,17 +1,17 @@
 <% include header %>
 
-<h1><a href="/">Nieuws demo homepage</a></h1>
+<h1 id="terugNaarHome"><a href="/">Home &#10095;</a></h1>
 
-<h2>Nieuwsitems voor categorie <%- categorieen[id] %></h2>
+<h2 id="welkeCategorie">Alle nieuwsitems voor de categorie <span id="spanCategorie"><%- categorieen[id] %></span></h2>
 
   <% for (var i = 0; i < items.length; i++) { %>
     <% if (items[i].categorieen.indexOf(categorieen[id]) !== -1) { %>
       <section>
-          <h2>
+          <h2 class="titel">
             <a href=/items/<%- items[i].id %>><%- items[i].titel %></a>
           </h2>
           <img src="/img/<%- items[i].afbeeldings %>" alt="<%- items[i].titel %>">
-          <p><%- items[i].datum %></p>
+          <p class="datum"><%- items[i].datum %></p>
 
           <p>
             <%- items[i].samenvatting %>

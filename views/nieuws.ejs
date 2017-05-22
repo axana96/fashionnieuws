@@ -1,15 +1,15 @@
 <% include header %>
 
 
-<h1><a href="/">Nieuws demo homepage</a></h1>
+<h1 id="terugNaarHome"><a href="/">Home &#10095;</a></h1>
 <section>
 
-    <h2>
+    <h2 class="titel">
       <%- item.titel %>
     </h2>
     <img src="/img/<%- item.afbeeldingl %>" alt="<%- item.titel %>">
 
-    <p><%- item.datum %></p>
+    <p class="datum"><%- item.datum %></p>
 
     <p>
       <%- item.body %>

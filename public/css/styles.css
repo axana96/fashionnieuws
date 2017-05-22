@@ -59,10 +59,11 @@ nav a:hover{
   font-weight: 200;
 }
 
-#leesMeer{
+#leesMeer, #categorie{
   font-weight: 800;
   color: darkslateblue;
   font-family: 'Oswald', sans-serif;
+  margin-top: 2%;
 }
 
 img{
